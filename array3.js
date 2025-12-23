@@ -6,7 +6,8 @@ let color=['red','orange','blue','yellow','grey'];
 console.log(color);
 console.log(color[1]);//accessing array using index value
 console.log(color);
-
+let cricket=['gowthum','karthik']
+console.log(cricket);
 
 console.log(color[color.length-1]);//acces last element in an array
 console.log(color);
